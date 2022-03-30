@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(ls -n)\n"
+printf "$(ls -n -la)\n"
