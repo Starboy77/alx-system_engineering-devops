@@ -1,2 +1,2 @@
 #!/bin/bash
-xgd-open StarWars.mp4
+telnet towel.blinkenlights.nl
