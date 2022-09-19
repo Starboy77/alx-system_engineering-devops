@@ -1,1 +1,1 @@
-Web Infrastructure Design Priject
+Web Infrastructure Design Project
