@@ -4,4 +4,4 @@ ssh::client_options:
   'Host *':
     SendEnv: 'LANG LC_*'
     PasswordAuthentication: 'no'
-    IdentityFile: '10'
+    IdentityFile: '~/.ssh/school'
